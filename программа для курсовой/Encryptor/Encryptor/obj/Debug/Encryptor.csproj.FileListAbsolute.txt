@@ -1,0 +1,39 @@
+C:\Users\Clutter\source\repos\Encryptor\Encryptor\bin\Debug\Encryptor.exe
+C:\Users\Clutter\source\repos\Encryptor\Encryptor\bin\Debug\Encryptor.pdb
+C:\Users\Clutter\source\repos\Encryptor\Encryptor\obj\Debug\Encryptor.Encryptor.resources
+C:\Users\Clutter\source\repos\Encryptor\Encryptor\obj\Debug\Encryptor.Properties.Resources.resources
+C:\Users\Clutter\source\repos\Encryptor\Encryptor\obj\Debug\Encryptor.csproj.GenerateResource.cache
+C:\Users\Clutter\source\repos\Encryptor\Encryptor\obj\Debug\Encryptor.csproj.CoreCompileInputs.cache
+C:\Users\Clutter\source\repos\Encryptor\Encryptor\obj\Debug\Encryptor.exe
+C:\Users\Clutter\source\repos\Encryptor\Encryptor\obj\Debug\Encryptor.pdb
+C:\Users\Clutter\source\repos\Encryptor\Encryptor\obj\Debug\Encryptor.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Encryptor\Encryptor\bin\Debug\Encryptor.exe.config
+C:\Users\user\Desktop\Encryptor\Encryptor\bin\Debug\Encryptor.exe
+C:\Users\user\Desktop\Encryptor\Encryptor\bin\Debug\Encryptor.pdb
+C:\Users\user\Desktop\Encryptor\Encryptor\obj\Debug\Encryptor.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Encryptor\Encryptor\obj\Debug\Encryptor.Encryptor.resources
+C:\Users\user\Desktop\Encryptor\Encryptor\obj\Debug\Encryptor.Properties.Resources.resources
+C:\Users\user\Desktop\Encryptor\Encryptor\obj\Debug\Encryptor.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Encryptor\Encryptor\obj\Debug\Encryptor.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Encryptor\Encryptor\obj\Debug\Encryptor.exe
+C:\Users\user\Desktop\Encryptor\Encryptor\obj\Debug\Encryptor.pdb
+C:\Users\user\Desktop\Программная реализация системы защиты данных на основе стандарта AES\Encryptor\Encryptor\bin\Debug\Encryptor.exe.config
+C:\Users\user\Desktop\Программная реализация системы защиты данных на основе стандарта AES\Encryptor\Encryptor\bin\Debug\Encryptor.exe
+C:\Users\user\Desktop\Программная реализация системы защиты данных на основе стандарта AES\Encryptor\Encryptor\bin\Debug\Encryptor.pdb
+C:\Users\user\Desktop\Программная реализация системы защиты данных на основе стандарта AES\Encryptor\Encryptor\obj\Debug\Encryptor.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Программная реализация системы защиты данных на основе стандарта AES\Encryptor\Encryptor\obj\Debug\Encryptor.MainForm.resources
+C:\Users\user\Desktop\Программная реализация системы защиты данных на основе стандарта AES\Encryptor\Encryptor\obj\Debug\Encryptor.Properties.Resources.resources
+C:\Users\user\Desktop\Программная реализация системы защиты данных на основе стандарта AES\Encryptor\Encryptor\obj\Debug\Encryptor.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Программная реализация системы защиты данных на основе стандарта AES\Encryptor\Encryptor\obj\Debug\Encryptor.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Программная реализация системы защиты данных на основе стандарта AES\Encryptor\Encryptor\obj\Debug\Encryptor.exe
+C:\Users\user\Desktop\Программная реализация системы защиты данных на основе стандарта AES\Encryptor\Encryptor\obj\Debug\Encryptor.pdb
+C:\Users\user\Desktop\_!В работе\БГПУ Ульяна Курсовая Защита данных на основе стандарта AES 5 из 5\Encryptor\Encryptor\bin\Debug\Encryptor.exe.config
+C:\Users\user\Desktop\_!В работе\БГПУ Ульяна Курсовая Защита данных на основе стандарта AES 5 из 5\Encryptor\Encryptor\bin\Debug\Encryptor.exe
+C:\Users\user\Desktop\_!В работе\БГПУ Ульяна Курсовая Защита данных на основе стандарта AES 5 из 5\Encryptor\Encryptor\bin\Debug\Encryptor.pdb
+C:\Users\user\Desktop\_!В работе\БГПУ Ульяна Курсовая Защита данных на основе стандарта AES 5 из 5\Encryptor\Encryptor\obj\Debug\Encryptor.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\_!В работе\БГПУ Ульяна Курсовая Защита данных на основе стандарта AES 5 из 5\Encryptor\Encryptor\obj\Debug\Encryptor.MainForm.resources
+C:\Users\user\Desktop\_!В работе\БГПУ Ульяна Курсовая Защита данных на основе стандарта AES 5 из 5\Encryptor\Encryptor\obj\Debug\Encryptor.Properties.Resources.resources
+C:\Users\user\Desktop\_!В работе\БГПУ Ульяна Курсовая Защита данных на основе стандарта AES 5 из 5\Encryptor\Encryptor\obj\Debug\Encryptor.csproj.GenerateResource.cache
+C:\Users\user\Desktop\_!В работе\БГПУ Ульяна Курсовая Защита данных на основе стандарта AES 5 из 5\Encryptor\Encryptor\obj\Debug\Encryptor.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\_!В работе\БГПУ Ульяна Курсовая Защита данных на основе стандарта AES 5 из 5\Encryptor\Encryptor\obj\Debug\Encryptor.exe
+C:\Users\user\Desktop\_!В работе\БГПУ Ульяна Курсовая Защита данных на основе стандарта AES 5 из 5\Encryptor\Encryptor\obj\Debug\Encryptor.pdb
